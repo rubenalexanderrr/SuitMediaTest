@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Suit Media</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="next">NEXT</string>
+    <string name="check">CHECK</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_name">John Doe</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="ispalindrome">isPalindrome</string>
+    <string name="notpalindrome">not palindrome</string>
+    <string name="info">Info</string>
+    <string name="ok">OK</string>
+    <string name="selected_username">Selected User Name</string>
+    <string name="retry">Retry\n</string>
+    <string name="desc">desc</string>
+    <string name="avatar">Avatar</string>
+</resources>
